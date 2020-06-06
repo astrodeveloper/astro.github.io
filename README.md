@@ -1,2 +1,2 @@
-# astro-toy
-My toy project
+# astrodeveloper blog
+my blog
